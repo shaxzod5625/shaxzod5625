@@ -1,4 +1,5 @@
 ### Hi there ![logo](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif | width=25)! I'm Shaxzod
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="250" height="250"/>
 
 - 🔭 I’m currently working on freelance and my own projects
 - 🎓 I’m currently studying at Astrum IT Academy which collaborate with Silicon Valley
